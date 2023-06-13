@@ -1,0 +1,12 @@
+{
+"instagram": {
+    "user": "a2k_writer",
+    "pass": "Death72211"
+  },
+  "config": {
+    "days_to_unfollow": 1,
+    "likes_over": 150,
+    "check_followers_every": 3600,
+    "hashtags": ["writing","writer","cricket"]
+  }
+}
